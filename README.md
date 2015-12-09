@@ -21,10 +21,6 @@ Siempre he pensado que de alguna manera, debería devolver parte del enorme cari
 Lo podéis leer con el navegador, descargar en pdf, en formato epub y en formato mobi desde la página del repositorio central en   [*gitbook*](https://www.gitbook.io/book/euroasiatika/euroasiatika).
 
 
-| Formato pdf                   | Formato .mobi                  | Formato .epub                  |
-| ----------------------------- |:------------------------------:| ------------------------------:|
-| ![pdf](https://dl.dropboxusercontent.com/u/47074610/euroasiatika/imageneslibrogit/pdf-logo.jpg) | ![mobi](https://dl.dropboxusercontent.com/u/47074610/euroasiatika/imageneslibrogit/mobi-logo.jpg) | ![epub](https://dl.dropboxusercontent.com/u/47074610/euroasiatika/imageneslibrogit/epub-logo.jpg) |
-
 ## Compartir
 
 Una vez que lo leáis y/o os haya gustado y tengáis ganas de que llene mi cabeza de historias en Africa, podéis hecharme unos duros en mi cuenta. No hay obligación previa de nada; por ello me siento libre para pediros que **compartáis con vuestros seres queridos y siempre con los biciclistas** este libro. De esta forma y por algún azar del destino, me estarás ayudando. Seguro.
@@ -48,21 +44,12 @@ Mediante transferencia bancaria al banco **ING** es la mejor forma para atenuar 
 Si tienes cuenta en paypal, puedes hacer una transferencia a mi cuenta de correo ( *primerproyecto@gmail.com* ) de una manera muy sencilla.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="9KTLNACQ95FEA"><input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal. La forma rápida y segura de pagar en Internet."><img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1"></form>
 
-### Lista de deseos en ebay.
-Hay unos cuantos objetos que me ayudarían en mi siguiente viaje. No tengo todo el material todavía conmigo, así que si me quieres ayudar y facilitarme el viaje, aquí tienes la [lista de deseos](http://my.ebay.es/wishlist/Juan-L-Tunon-Martinez/blkrc0haMlByQm1kajZ3Vm5ZK3NFWjJQckEyZGo2d0dsSUdqREpLS29BNmRqNng5blkrc2VRKio*?lid=blkrc0haMlByQm1kajZ3Vm5ZK3NFWjJQckEyUmdLRUJrNGFwRDVlQ29BNmRqNng5blkrc2VRKio*&ssPageName=ADME:X:EWF:ES:3105) que todavía me faltan colgada de ebay.
-
-* Herramientas y mantenimiento para la bicicleta.
-* Material de camping (esterilla, bomba, filtros de agua, ropa etc)
 
 ### En la edición-correción-traducción de este libro.
 Este libro no está del todo terminado; quizás porque es mi primer libro y porque no estoy acostumbrado a escribir, me cuesta cerrar el libro y a parte de errores ortográficos y gramaticales, me gustaría poder traducirlo al inglés. 
 
 Si quieres ayudarme con las traducción, tengo el libro colgado como repositorio en [github](https://github.com/primerproyecto/euroasiatika-el-libro). Siéntete libre para bajártelo, corregir, traducir y cualquier otra acción que creas interesante para este libro de viaje en bicicleta. Súbelo al repositorio y si me convence, lo agregamos de 1000 amores y formarás de alguna manera parte de la siguiente historia.
 Tengo el repositorio con todos los archivos que contienen [*el libro en github*](https://github.com/primerproyecto/euroasiatika-el-libro) que te puedes clonar en tu ordenador. Git requiere cierto conocimiento ...pero merece la pena alcanzarlo.
-
-
-
-![repositorio en github](https://dl.dropboxusercontent.com/u/47074610/euroasiatika/imageneslibrogit/github-logo.jpg)
 
 ### Licencia de la obra
 
@@ -88,8 +75,7 @@ No hay restricciones adicionales — No puede aplicar términos legales o medida
 * facebook: [www.facebook.com/primerproyecto](http://www.facebook.com/primerproyecto) 
 * email: primerproyecto@gmail.com
 * twitter: [@euroasiatika](http://twitter.com/euroasiatika)
-* página: [www.panafrikana.es](http://www.panafrikana.es)
-* [blog de la euroasiatika](http://panamerikana.org/panafrikana/euroasiatika/)
+* página: [www.unbiciclista.org](http://www.unbiciclista.org)
 * fotos: [flickr](http://flickr.com/photos/47339411@N04/)
 * videos: [vimeo](http://vimeo.com/channels/euroasiatika)
 * gpx:  [ridewithgps](http://ridewithgps.com/users/13557)
